@@ -1,0 +1,15 @@
+This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
+
+1 StaticMesh(s) | 1 SkeletalMesh(s) | 0 Alembic(s) | 1 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+Armature [SkeletalMesh] EXPORTED IN 0.03s
+//ExportedFbx\SkeletalMesh\Armature\SKM_Armature.fbx
+//ExportedFbx\SkeletalMesh\Armature\SKM_Armature_AdditionalTrack.json
+
+Anim_ArmatureAction.001 [Animation (Action)] EXPORTED IN 0.07s
+//ExportedFbx\SkeletalMesh\Armature\Anim\Anim_ArmatureAction.001.fbx
+
+ChestGameAsset [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_ChestGameAsset.fbx
+//ExportedFbx\StaticMesh\SM_ChestGameAsset_AdditionalTrack.json
+

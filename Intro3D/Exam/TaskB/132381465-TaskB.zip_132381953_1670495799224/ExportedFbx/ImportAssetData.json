@@ -1,0 +1,64 @@
+{
+    "Coment": {
+        "1/3": "This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons",
+        "2/3": "This file contains additional Camera animation informations that is not supported with .fbx files",
+        "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
+    },
+    "unreal_import_location": "/Game/ImportedFbx",
+    "assets": [
+        {
+            "name": "Armature",
+            "type": "SkeletalMesh",
+            "lod": 0,
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\SkeletalMesh\\Armature\\SKM_Armature.fbx",
+            "asset_filename": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\SkeletalMesh\\Armature\\SKM_Armature.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\SkeletalMesh\\Armature\\SKM_Armature_AdditionalTrack.json",
+            "create_physics_asset": true,
+            "material_search_location": "UnderRoot",
+            "auto_generate_collision": true,
+            "static_mesh_lod_group": null,
+            "generate_lightmap_u_vs": true,
+            "use_custom_light_map_resolution": false,
+            "light_map_resolution": -1,
+            "collision_trace_flag": "CTF_UseDefault"
+        },
+        {
+            "name": "Anim_ArmatureAction.001",
+            "type": "Animation",
+            "full_import_path": "/Game/ImportedFbx/Anim",
+            "fbx_path": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\SkeletalMesh\\Armature\\Anim\\Anim_ArmatureAction.001.fbx",
+            "asset_filename": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\SkeletalMesh\\Armature\\Anim\\Anim_ArmatureAction.001.fbx",
+            "abc_path": null,
+            "additional_tracks_path": null,
+            "animation_skeleton_path": "/Game/ImportedFbx/SKM_Armature_Skeleton.SKM_Armature_Skeleton",
+            "create_physics_asset": true,
+            "material_search_location": "UnderRoot",
+            "auto_generate_collision": true,
+            "static_mesh_lod_group": null,
+            "generate_lightmap_u_vs": true,
+            "use_custom_light_map_resolution": false,
+            "light_map_resolution": -1,
+            "collision_trace_flag": "CTF_UseDefault"
+        },
+        {
+            "name": "ChestGameAsset",
+            "type": "StaticMesh",
+            "lod": 0,
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\StaticMesh\\SM_ChestGameAsset.fbx",
+            "asset_filename": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\StaticMesh\\SM_ChestGameAsset.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "C:\\Users\\julia\\OneDrive\\Dokumenter\\HINN Arbeid\\Intro 3d\\3D\\Exam\\TaskB\\132381465-TaskB.zip_132381953_1670495799224\\ExportedFbx\\StaticMesh\\SM_ChestGameAsset_AdditionalTrack.json",
+            "create_physics_asset": true,
+            "material_search_location": "Local",
+            "auto_generate_collision": true,
+            "static_mesh_lod_group": null,
+            "generate_lightmap_u_vs": true,
+            "use_custom_light_map_resolution": false,
+            "light_map_resolution": -1,
+            "collision_trace_flag": "CTF_UseDefault"
+        }
+    ]
+}
